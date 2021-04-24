@@ -7,11 +7,12 @@ Learning the C# language using .Net Code and VS Code IDE
 
 ## :beginner: Tutorials
 
-- :o: [https://channel9.msdn.com/Series/CSharp-101/](csharp-101/)
-- :o: [C# Language Primer](csharp-language-premier)
+- :o: [C# 101](csharp-101/)
+- :construction: [Take your first steps with C#](learn-paths-csharp-first-steps/)
+- :o: [C# Language Primer](csharp-language-premier/)
 - :o: [C# Basics to Advanced](https://www.youtube.com/playlist?list=PLzDRvYVwl53t2GGC4rV_AmH7vSvSqjVmz) (Code Monkey)
 
-## OResources
+## Other Resources
 
 ### .NET and C# Guides and Documentation
 
