@@ -2,10 +2,10 @@
 
 Online tutorials for various languages, which I completed to learn software development and to grow my skills.
 
-## Software Languages
+## :beginner: Software Languages
 
-1. :file_folder: [Learning C#](learning-csharp/)
-2. :file_folder: [Learning Python](learning-python/)
+1. :file_folder: [Learning C#](learning-csharp-development/)
+2. :file_folder: [Learning Python](learning-python-development/)
 3. :file_folder: [Learning Lua](learning-lua-development/)
 
 ## Other Software Development Topics
