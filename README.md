@@ -14,5 +14,5 @@ Online tutorials for various languages, which I completed to learn software deve
 - [Learning Algorithms](learning-algorithms/)
 
 ## :page_with_curl: License
-
+  
 The source code is free -- see the [LICENSE](LICENSE) file for details
