@@ -7,7 +7,8 @@ Online tutorials for various languages, which I completed to learn software deve
 1. :file_folder: [Learning C#](learning-csharp-development/)
 2. :file_folder: [Learning Python](learning-python-development/)
 3. :file_folder: [Learning Lua](learning-lua-development/)
-4. :file_folder: [Learning Mobile Development](learning-mobile-development/)
+4. :file_folder: [Learning Haxe](learning-haxe-development/)
+5. :file_folder: [Learning Mobile Development](learning-mobile-development/)
 
 ## Other Software Development Topics
 
