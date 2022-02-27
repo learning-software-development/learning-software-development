@@ -9,6 +9,8 @@
 ## Learning Android Development
 
 - :o: Android Apps in 1 Hour: No Coding Required -- stoneriverelearning.com
+  - :heavy_check_mark: Hello Purr
+  - :heavy_check_mark: Android Zoo
 
 ## MIT App Inventor
 
