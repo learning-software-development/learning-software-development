@@ -11,7 +11,16 @@
 - :o: Android Apps in 1 Hour: No Coding Required -- stoneriverelearning.com
   - :heavy_check_mark: Hello Purr
   - :heavy_check_mark: Android Zoo
-  - :heavy_check_mark: Virtual Camnpus Tour
+  - :heavy_check_mark: Virtual Campus Tour
+  - :heavy_check_mark: Business Card
+  - :o: Event / Conference App
+  - :o: GPS Locator
+  - :o: Text Message App
+  - :o: Quiz App
+  - :o: Advanced Quiz App
+  - :o: Mole Mash Game
+  - :o: Getting Your App to the Market
+  - :o: Working with the Basic Components
 
 ## MIT App Inventor
 
