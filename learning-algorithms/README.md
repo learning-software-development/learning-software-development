@@ -5,4 +5,4 @@
 
 ## :beginner: Video Tutorials
 
-- :o: [Algorithms Explained – minimax and alpha-beta pruning](minimax-and-alpha-beta-pruning/)
+- :o: [Algorithms Explained – minimax and alpha-beta pruning](https://www.youtube.com/watch?v=l-hh51ncgDI) on YouTube

@@ -12,7 +12,7 @@ Online tutorials for various languages, which I completed to learn software deve
 
 ## Other Software Development Topics
 
-- [Learning Algorithms](learning-algorithms/)
+- :file_folder: [Learning Algorithms](learning-algorithms/)
 
 ## :page_with_curl: License
   
