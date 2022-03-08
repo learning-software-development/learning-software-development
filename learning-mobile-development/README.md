@@ -13,7 +13,7 @@
   - :heavy_check_mark: Android Zoo
   - :heavy_check_mark: Virtual Campus Tour
   - :heavy_check_mark: Business Card
-  - :o: Event / Conference App
+  - :heavy_check_mark: Event / Conference App
   - :o: GPS Locator
   - :o: Text Message App
   - :o: Quiz App
