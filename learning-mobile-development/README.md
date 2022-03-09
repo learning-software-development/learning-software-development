@@ -14,7 +14,7 @@
   - :heavy_check_mark: Virtual Campus Tour
   - :heavy_check_mark: Business Card
   - :heavy_check_mark: Event / Conference App
-  - :o: GPS Locator
+  - :heavy_check_mark: GPS Locator
   - :o: Text Message App
   - :o: Quiz App
   - :o: Advanced Quiz App
