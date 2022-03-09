@@ -15,7 +15,7 @@
   - :heavy_check_mark: Business Card
   - :heavy_check_mark: Event / Conference App
   - :heavy_check_mark: GPS Locator
-  - :o: Text Message App
+  - :heavy_check_mark: Text Message App
   - :o: Quiz App
   - :o: Advanced Quiz App
   - :o: Mole Mash Game
