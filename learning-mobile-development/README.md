@@ -18,7 +18,7 @@
   - :heavy_check_mark: Text Message App
   - :heavy_check_mark: Quiz App
   - :heavy_check_mark: Advanced Quiz App
-  - :o: Mole Mash Game
+  - :heavy_check_mark: Mole Mash Game
   - :o: Getting Your App to the Market
   - :o: Working with the Basic Components
 
