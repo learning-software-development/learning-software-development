@@ -8,7 +8,7 @@
 
 ## Learning Android Development
 
-- :o: Android Apps in 1 Hour: No Coding Required -- stoneriverelearning.com
+- :heavy_check_mark: Android Apps in 1 Hour: No Coding Required -- stoneriverelearning.com
   - :heavy_check_mark: Hello Purr
   - :heavy_check_mark: Android Zoo
   - :heavy_check_mark: Virtual Campus Tour
@@ -19,8 +19,8 @@
   - :heavy_check_mark: Quiz App
   - :heavy_check_mark: Advanced Quiz App
   - :heavy_check_mark: Mole Mash Game
-  - :o: Getting Your App to the Market
-  - :o: Working with the Basic Components
+  - :heavy_check_mark: Getting Your App to the Market
+  - :heavy_check_mark: Working with the Basic Components
 
 ## MIT App Inventor
 
