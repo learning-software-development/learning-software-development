@@ -7,12 +7,13 @@ Learning the C# language using .Net Code and VS Code IDE
 
 ## :beginner: Microsoft Tutorials
 
-1. :heavy_check_mark: [.NET Tutorial - Hello World in 5 minutes](https://aka.ms/dotnet-hello-world)
-2. :o: [.NET Core 101](net-core-101/)
-3. :heavy_check_mark: [C# 101](csharp-101/)
+1. :heavy_check_mark: [.NET Tutorial - Hello World in 5 minutes](microsoft-tutorials/hello-world)
+2. :heavy_check_mark: [.NET Core 101](microsoft-tutorials/net-core-101)
+3. :heavy_check_mark: [C# 101](microsoft-tutorials/csharp-101)
 4. :o: [Take your first steps with C#](learn-paths-csharp-first-steps/)
-5. :o: [C# Language Primer](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2008/zkxk2fwf(v=vs.90)) -- Microsoft
+5. :o: [C# Language Primer](microsoft-tutorials/csharp-language-premier)
 
 ## :beginner: YouTube Tutorials
 
-1. :o: [C# Basics to Advanced](https://www.youtube.com/playlist?list=PLzDRvYVwl53t2GGC4rV_AmH7vSvSqjVmz) -- Code Monkey
+1. :o: [C# Basics to Advanced](introduction-to-csharp) -- Code Monkey
+2. :o: [HOW TO PROGRAM in C#](how-to-program-in-csharp) -- Brackeys
