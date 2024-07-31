@@ -1,4 +1,4 @@
-# C# Language Primer
+# :mortar_board: C# Language Primer
 
 :link: [Primer article](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2008/zkxk2fwf(v=vs.90))
 
