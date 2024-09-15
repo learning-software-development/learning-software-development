@@ -1,4 +1,4 @@
-# :mortar_board: :snake: Learning Lua Development
+# :mortar_board: Learning Lua Development
 
 Learning the Lua language
 
