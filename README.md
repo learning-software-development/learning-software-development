@@ -10,6 +10,7 @@ Online tutorials for various languages, which I completed to learn software deve
 4. :file_folder: [Learning Lua](learning-lua-development/)
 5. :file_folder: [Learning Haxe](learning-haxe-development/)
 6. :file_folder: [Learning Mobile Development](learning-mobile-development/)
+7. :file_folder: [Learning Kotlin](learning-kotlin-development/)
 
 ## Other Software Development Topics
 
