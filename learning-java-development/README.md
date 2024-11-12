@@ -5,14 +5,12 @@ Learning the Java language
 :heavy_check_mark: Completed  
 :o: Incomplete
 
-## :beginner: Tutorials
+## :beginner: Build Tools
 
-- :heavy_check_mark: [First Cup of Java EE Tutorial](https://javaee.github.io/firstcup/)
-- :o: [Java EE Tutorial](https://javaee.github.io/tutorial/)
-- :heavy_check_mark: [Getting Started with Java EE Applications](https://netbeans.apache.org/tutorial/main/kb/docs/javaee/javaee-gettingstarted/)
+- :o: [Introduction to Gradle for Developers](introduction-gradle-for-developers/)
 
-## :page_facing_up: Notes
+## :beginner: Java EE Tutorials
 
-The First Cup application is available in the browser on:
-
-`http://localhost:8080/dukes-age/webapi/dukesAge`
+- :heavy_check_mark: [First Cup of Java EE Tutorial](first-cup-java-ee-tutorial/)
+- :o: [Java EE Tutorial](java-ee-tutorial/)
+- :heavy_check_mark: [Getting Started with Java EE Applications](SimpleEE6App/)
