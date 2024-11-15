@@ -7,7 +7,7 @@ Learning the Java language
 
 ## :beginner: Build Tools
 
-- :o: [Introduction to Gradle for Developers](introduction-gradle-for-developers/)
+- :heavy_check_mark: [Introduction to Gradle for Developers](introduction-gradle-for-developers/)
 
 ## :beginner: Java EE Tutorials
 
